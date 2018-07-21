@@ -1,2 +1,2 @@
-# node-mod1
+# node-api
 Simple API based on nodejs using express.
